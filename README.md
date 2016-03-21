@@ -8,7 +8,7 @@ Prediction of population of "elderly people living alone" in Seoul
 서울시 공공데이터를 활용해 간접적으로 독거노인의 주거를 예측하고자 했다.
 
 ## 프로젝트 목표
-서울시 공공데이터로 동벼 독거노인 수를 예측할 수 있는 모형을 설계
+서울시 공공데이터로 서울시 내 동별 독거노인 수를 예측할 수 있는 모형을 설계
 
 ### DATA SET (2012년 , 서울시 동별 자료)
 - 출처 : 서울 열린데이터 광장 (http://data.seoul.go.kr/)

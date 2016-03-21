@@ -1,6 +1,9 @@
 # Elderly_people_living_alone
 Prediction of population of "elderly people living alone" in Seoul
 
+# Team
+유대성, 최기철, 양치복
+
 ## 개요
 고령화 사회 문제 중 가장 심각한 노인의 고독사이다.
 이 문제를 해결하기 위해 앞으로 독거노인이 어디에 주거하게 될 것인지 예측이 필요하다고 생각했다.
@@ -15,3 +18,4 @@ Prediction of population of "elderly people living alone" in Seoul
 - Y(target)  : 독거노인 수
 - X(feature) : 장애인, 화재 발생 건수, 은행 지점, 노인 복지시설, 전입인구, 전출인구
 - Samples : 422
+

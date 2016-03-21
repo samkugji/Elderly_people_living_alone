@@ -12,5 +12,6 @@ Prediction of population of "elderly people living alone" in Seoul
 
 ### DATA SET (2012년 , 서울시 동별 자료)
 - 출처 : 서울 열린데이터 광장 (http://data.seoul.go.kr/)
-- Y(target) : 독거노인 수
+- Y(target)  : 독거노인 수
 - X(feature) : 장애인, 화재 발생 건수, 은행 지점, 노인 복지시설, 전입인구, 전출인구
+- Samples : 422
